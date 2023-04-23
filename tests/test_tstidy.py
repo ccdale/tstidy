@@ -16,7 +16,7 @@ class TheException(Exception):
 
 
 def test_tstidy_version():
-    assert __version__ == "0.6.6"
+    assert __version__ == "0.1.2"
 
 
 def test_errorNotify(capsys):

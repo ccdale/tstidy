@@ -3,7 +3,7 @@ import os
 import sys
 
 __appname__ = "tstidy"
-__version__ = "0.6.6"
+__version__ = "0.1.2"
 tvhuser = "unset"
 tvhpass = "unset"
 tvhipaddr = "druidmedia"
